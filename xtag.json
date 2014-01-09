@@ -1,8 +1,7 @@
 {
-	"name": "stub",
-	"tagName": "x-stub",
+	"name": "Prepend",
 	"version": "0.1.0",
-	"author": "you",
+	"author": "Samarth AGARWAL",
 	"description": "",
 	"demo": "demo/index.html",
 	"categories": [],
@@ -18,7 +17,9 @@
 		"description": "",
 		"attributes": {},
 		"events": {},
-		"methods": {},
+		"methods": {
+          "prepend": "Adds elements to the start";
+        },
 		"getters": {},
 		"setters": {}
 	}

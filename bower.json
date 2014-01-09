@@ -1,6 +1,6 @@
 {
-  "name": "stub",
-  "description": "",
+  "name": "prepend",
+  "description": "mixin to add prepend method",
   "version": "0.1.0",
   "keywords": [
     "web-components",    
