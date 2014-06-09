@@ -15,7 +15,7 @@
 */
 (function(){  
 
-  xtag.mixins.prepend = {
+  xtag.mixins.prependChild = {
     methods: {
       prepend: function (element) {
         if (!element) return false;
