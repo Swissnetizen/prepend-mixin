@@ -8,7 +8,7 @@ Adds elements to start.
 xtag.register("x-foo", {
   mixins: ["prepend"]
 });
-x-foo.prepend(element);
+x-foo.prependChild(element);
 ```
 
 # Links
