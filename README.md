@@ -1,6 +1,6 @@
 # About
 
-Adds elements to start.
+Using the prepend mixin you can prepend elements instead of appending them.
 
 # Usage
 
@@ -11,12 +11,5 @@ xtag.register("x-foo", {
 x-foo.prependChild(element);
 ```
 
-# Links
-
-[X-Tags Docs](http://x-tags.org/docs)
-
-[Guide for creating X-Tag Components](https://github.com/x-tag/core/wiki/Creating-X-Tag-Components)
-
-[Using X-Tag components in your applications](https://github.com/x-tag/core/wiki/Using-our-Web-Components-in-Your-Application)
 
 
